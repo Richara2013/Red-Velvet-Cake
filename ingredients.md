@@ -1,0 +1,3 @@
+**This text will be bold**
+_The main ingredients in red velvet cake are butter, sugar, flour, eggs, unsweetened cocoa, baking powder, sometimes buttermilk, and, most importantly, a generous amount of red food coloring (gel or paste) to give the cake its typical color. Some recipes add cooked red beets to the batter to enhance the red color._
+
